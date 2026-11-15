@@ -1,0 +1,6 @@
+{
+  "name": "PakPolitico Explorer",
+  "description": "Search Pakistani politicians using live Google Search grounding to inspect party affiliation, electoral history, public positions, and documented asset disclosures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
